@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Menu/Menu Scene.unity
+    guid: 84004cc216a0a4d41aa127d5f6ed84ee
+  - enabled: 1
+    path: Assets/Amritesh/The Beach/The Beach.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
     path: Assets/Purva/The Mountain/Mt..unity
     guid: e569ea02c493ce345984e407824bf021
+  - enabled: 1
+    path: Assets/Purvi/forest/Scenes/forestScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
